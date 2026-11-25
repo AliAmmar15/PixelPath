@@ -1,0 +1,15 @@
+{
+  "_comment": "Edit this file for the machine the FINAL benchmarks run on. Values below are for the machine this project was set up on.",
+  "cpu": "AMD Ryzen 5 5500 (Zen 3)",
+  "cores": 6,
+  "threads": 12,
+  "clock_ghz_base": 3.6,
+  "clock_ghz_boost": 4.2,
+  "simd": "AVX2, 256-bit, 2 FMA pipes per core",
+  "fp32_flop_per_cycle_per_core": 32,
+  "l3_cache_mib": 16,
+  "memory": "DDR4-3200, dual channel",
+  "mem_mts": 3200,
+  "mem_channels": 2,
+  "mem_bus_bits": 64
+}
