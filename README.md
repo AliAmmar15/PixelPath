@@ -114,9 +114,9 @@ Fill in names once the group decides.
 
 | Role | Member | Owns |
 |---|---|---|
-| A: Baseline, correctness, hardware | | `serial.py`, `kernel.py`, `tests/`, `bench/hardware.*`, `bench/stream.py` |
-| B: Single-core optimization | | `vectorized.py`, `jit.py`, `_kernels.py`, `cost_model.py`, `lowrank.py` |
-| C: Parallelism and benchmarks | | `parallel.py`, `bench/run_benchmarks.py`, `bench/workload.py`, `bench/plots.py`, `run_all.py` |
+| A: Baseline, correctness, hardware | Ali Ammar | `serial.py`, `kernel.py`, `tests/`, `bench/hardware.*`, `bench/stream.py` |
+| B: Single-core optimization | Matthew Mankiewicz | `vectorized.py`, `jit.py`, `_kernels.py`, `cost_model.py`, `lowrank.py` |
+| C: Parallelism and benchmarks | Dalya Karem | `parallel.py`, `bench/run_benchmarks.py`, `bench/workload.py`, `bench/plots.py`, `run_all.py` |
 
 ## Open work (headroom to explore)
 
